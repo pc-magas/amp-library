@@ -13,7 +13,7 @@
     ],
     "license": "Apache-2.0",
     "keywords": ["Drupal", "AMP", "mobile"],
-    "homepage": "https://github.com/Lullabot/amp-library",
+    "homepage": "https://github.com/pc-magas/amp-library",
     "require" : {
         "php" : ">=7.0.0",
         "querypath/QueryPath": ">=3.0.4",
@@ -28,7 +28,7 @@
         "psr-4": {"Lullabot\\AMP\\": "src"}
     },
     "require-dev": {
-        "php" : ">=5.5.0",
+        "php" : ">=7.0.0",
         "phpunit/phpunit": "6.5.*",
         "symfony/console": "^2.7.0"
     }
